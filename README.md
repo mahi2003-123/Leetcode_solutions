@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
