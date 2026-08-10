@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -39,10 +40,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0605-can-place-flowers) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
