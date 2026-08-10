@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0605-can-place-flowers) |
+| [0881-boats-to-save-people](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
@@ -45,13 +46,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0344-reverse-string) |
+| [0881-boats-to-save-people](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0605-can-place-flowers) |
+| [0881-boats-to-save-people](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
