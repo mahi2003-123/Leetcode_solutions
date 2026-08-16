@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2029-stone-game-ix](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [2029-stone-game-ix](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0881-boats-to-save-people) |
+| [2029-stone-game-ix](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2029-stone-game-ix](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -109,4 +113,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
