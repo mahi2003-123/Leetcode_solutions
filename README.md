@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2029-stone-game-ix](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## String
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0881-boats-to-save-people](https://github.com/mahi2003-123/Leetcode_solutions/tree/master/0881-boats-to-save-people) |
